@@ -1,4 +1,8 @@
-# Run Pi-Hole + Unbound Using A MacVLAN And Custom Bridge Network On A Synology NAS With Docker-Compose
+# WIP 
+
+Run Pi-Hole + Unbound + npm (nginx proxy manager) Using A MacVLAN And Custom Bridge Network On A Synology NAS With Docker-Compose
+
+Adding npm (nginx proxy manager) to digtalaloha/synology-docker-pihole-unbound 
 
 ## Description
 
